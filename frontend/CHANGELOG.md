@@ -1,5 +1,17 @@
 # Changelog
 
+## [0.46.0](https://github.com/flightstrips/FlightStrips/compare/frontend/v0.45.0...frontend/v0.46.0) (2026-07-13)
+
+
+### Features
+
+* **strip:** store arrival STAR ([#347](https://github.com/flightstrips/FlightStrips/issues/347)) ([02747f2](https://github.com/flightstrips/FlightStrips/commit/02747f28c25f9fd5e83655392164fdcbc49c5388))
+
+
+### Bug Fixes
+
+* **stand:** synchronize lifecycle removals and adjacency ([#340](https://github.com/flightstrips/FlightStrips/issues/340)) ([eed49fb](https://github.com/flightstrips/FlightStrips/commit/eed49fb998d0543c3e2a7c7b272043bf3a4d8e26))
+
 ## [0.45.0](https://github.com/flightstrips/FlightStrips/compare/frontend/v0.44.0...frontend/v0.45.0) (2026-07-12)
 
 

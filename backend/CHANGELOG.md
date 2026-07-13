@@ -1,5 +1,19 @@
 # Changelog
 
+## [0.37.0](https://github.com/flightstrips/FlightStrips/compare/backend/v0.36.0...backend/v0.37.0) (2026-07-13)
+
+
+### Features
+
+* **strip:** store arrival STAR ([#347](https://github.com/flightstrips/FlightStrips/issues/347)) ([02747f2](https://github.com/flightstrips/FlightStrips/commit/02747f28c25f9fd5e83655392164fdcbc49c5388))
+
+
+### Bug Fixes
+
+* **cdm:** preserve TSAT after startup ([#345](https://github.com/flightstrips/FlightStrips/issues/345)) ([bf95c40](https://github.com/flightstrips/FlightStrips/commit/bf95c40a52939d2ed5a94dd2e7efe08f1e84d87d))
+* **cdm:** restore EOBT clamping during strip sync ([#346](https://github.com/flightstrips/FlightStrips/issues/346)) ([547749e](https://github.com/flightstrips/FlightStrips/commit/547749e45526616fbe31b32de1e33c48c5042747))
+* **stand:** synchronize lifecycle removals and adjacency ([#340](https://github.com/flightstrips/FlightStrips/issues/340)) ([eed49fb](https://github.com/flightstrips/FlightStrips/commit/eed49fb998d0543c3e2a7c7b272043bf3a4d8e26))
+
 ## [0.36.0](https://github.com/flightstrips/FlightStrips/compare/backend/v0.35.1...backend/v0.36.0) (2026-07-12)
 
 
